@@ -70,3 +70,12 @@ Make sure you have Python 3.8+ and install the required dependencies:
 pip install torch torchvision
 pip install transformers
 pip install pillow
+
+---
+
+## 👨‍💻 Author
+
+**Tirthraj Bhalodiya**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/tirthraj-bhalodiya-97534b227/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&style=flat)](https://github.com/Tirthraj1605)
+
