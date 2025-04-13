@@ -70,7 +70,7 @@ Make sure you have Python 3.8+ and install the required dependencies:
 pip install torch torchvision
 pip install transformers
 pip install pillow
-
+```
 ---
 
 ## 👨‍💻 Author
